@@ -1,0 +1,5 @@
+# Use root/example as user/password credentialsd
+version: "3.4"
+
+services:
+  
